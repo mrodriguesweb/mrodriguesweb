@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com back-end! Faço extrações, manipulações e carrgamento(ETL) em grandes bases de dados(+1mi) utilizando SAS Enterprise Guide. Também dou manutenção a sistemas de baixa plataforma utilizando VBA.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/mrodriguesweb">
