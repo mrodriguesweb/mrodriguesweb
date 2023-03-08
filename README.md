@@ -1,6 +1,6 @@
 ## Olá! Eu sou Mateus Rodrigues
 
-- 🔭 Hoje trabalho com back-end! Faço extrações, manipulações e carregamento(ETL) em grandes bases de dados(+1mi) utilizando SAS Enterprise Guide. Também dou manutenção a sistemas de baixa plataforma utilizando VBA.
+- 🔭 Hoje trabalho com back-end! Faço extrações, manipulações e carregamento em grandes bases de dados utilizando SAS Enterprise Guide. Também dou manutenção a sistemas de baixa plataforma utilizando VBA.
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas
 
 <div align="center">
