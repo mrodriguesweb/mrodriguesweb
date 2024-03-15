@@ -1,7 +1,7 @@
 ## Olá! Eu sou Mateus Rodrigues
 
-- 🔭 Hoje trabalho com back-end! Faço extrações, manipulações e carregamento em grandes bases de dados utilizando SAS Enterprise Guide, além disso dou sustentação e adiciono funcionalides a sistemas web em JavaScript e C#. Também dou manutenção a sistemas de baixa plataforma utilizando VBA.
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
+- 🔭 Hoje trabalho como DEV Full Stack Web! Sou responsável por toda a elaboração de projetos, desde o entendimento dos requisitos, análise, modelagem do banco de dados, code, testes e Deploy. Minhas stacks principais são: Web(HTML, CSS e Js), C#, Python, SQL e Banco de Dados. Também tenho experiências com Análise de Dados.
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/mrodriguesweb">
