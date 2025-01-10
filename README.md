@@ -5,7 +5,8 @@ Sou apaixonado por tecnologia e desenvolvimento web, com foco em **C# e ASP.NET 
 - **Back-End**: Criação de APIs RESTful, boas práticas com Entity Framework e LINQ.  
 - **Banco de Dados**: SQL Server e PostgreSQL, incluindo modelagem relacional e rotinas otimizadas.  
 - **Front-End**: Interfaces dinâmicas com Angular, HTML, CSS e JavaScript.  
-- **Ferramentas**: Controle de versão com Git, integração de APIs e automação com Python.  
+- **Ferramentas**: Controle de versão com Git, integração de APIs e automação com Python.
+- **Outros Conhecimentos**: Scripts SAS, PHP, Processos ETL e Java.
 
 📌 Sempre buscando aprimorar minhas habilidades e contribuir para projetos impactantes. Vamos colaborar? 🚀 
 
