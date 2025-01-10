@@ -1,7 +1,13 @@
 ## Olá! Eu sou Mateus Rodrigues
 
-- 🔭 Hoje trabalho como DEV Full Stack Web! Sou responsável por toda a elaboração de projetos, desde o entendimento dos requisitos, análise, modelagem do banco de dados, code, testes e Deploy. Minhas stacks principais são: Web(HTML, CSS e Js), C#, Python, SQL e Banco de Dados. Também tenho experiências com Análise de Dados.
-- 🌱 Formado em Análise e Desenvolvimento de Sistemas
+Sou apaixonado por tecnologia e desenvolvimento web, com foco em **C# e ASP.NET Core**. No meu perfil, você encontrará projetos que refletem minhas habilidades em:  
+
+- **Back-End**: Criação de APIs RESTful, boas práticas com Entity Framework e LINQ.  
+- **Banco de Dados**: SQL Server e PostgreSQL, incluindo modelagem relacional e rotinas otimizadas.  
+- **Front-End**: Interfaces dinâmicas com Angular, HTML, CSS e JavaScript.  
+- **Ferramentas**: Controle de versão com Git, integração de APIs e automação com Python.  
+
+📌 Sempre buscando aprimorar minhas habilidades e contribuir para projetos impactantes. Vamos colaborar? 🚀 
 
 <div align="center">
   <a href="https://github.com/mrodriguesweb">
